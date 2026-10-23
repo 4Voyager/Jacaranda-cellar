@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 640" width="600" height="1920"><defs><clipPath id="lm-bowl"><path d="M9 9Q13 5 17 9Q20.5 5 24 9Q27.5 5 31 9Q35 5 39 9C39 21 32 29 24 29C16 29 9 21 9 9Z"/></clipPath><linearGradient id="foil-gold"><stop offset="0" stop-color="#7d5d16"/><stop offset=".35" stop-color="#f1d47c"/><stop offset=".7" stop-color="#b48a28"/><stop offset="1" stop-color="#6e5012"/></linearGradient><linearGradient id="lbl-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf7e8"/><stop offset="1" stop-color="#eadfc4"/></linearGradient><linearGradient id="hl-v" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff" stop-opacity="1"/><stop offset=".85" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+        <defs>
+          <clipPath id="sb-body"><path d="M88 24L88 205C88 250 30 262 30 330L30 610Q30 628 48 628L152 628Q170 628 170 610L170 330C170 262 112 250 112 205L112 24Z"/></clipPath>
+          <linearGradient id="sb-glass"><stop offset="0" stop-color="#fff" stop-opacity=".36"/><stop offset=".3" stop-color="#fff" stop-opacity=".06"/><stop offset=".72" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+          <linearGradient id="sb-wine"><stop offset="0" stop-color="#2e050d"/><stop offset=".3" stop-color="#8a1a2f"/><stop offset=".62" stop-color="#4d0b1a"/><stop offset="1" stop-color="#22040a"/></linearGradient>
+        </defs>
+        <path d="M88 24L88 205C88 250 30 262 30 330L30 610Q30 628 48 628L152 628Q170 628 170 610L170 330C170 262 112 250 112 205L112 24Z" fill="url(#sb-glass)"/>
+        <g clip-path="url(#sb-body)">
+          <rect x="0" y="292" width="200" height="360" fill="url(#sb-wine)"/>
+          <ellipse cx="100" cy="292" rx="80" ry="7" fill="#c24a63" opacity=".55"/>
+          <rect x="44" y="300" width="9" height="300" rx="4.5" fill="url(#hl-v)" opacity=".28"/>
+          <rect x="150" y="300" width="3" height="300" rx="1.5" fill="url(#hl-v)" opacity=".2"/>
+        </g>
+        <rect x="93" y="70" width="5" height="120" rx="2.5" fill="url(#hl-v)" opacity=".5"/>
+        <path d="M88 24L88 205C88 250 30 262 30 330L30 610Q30 628 48 628L152 628Q170 628 170 610L170 330C170 262 112 250 112 205L112 24Z" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"/>
+        <rect x="86" y="10" width="28" height="100" rx="4" fill="url(#foil-gold)"/><rect x="83" y="8" width="34" height="10" rx="3" fill="url(#foil-gold)"/>
+        <rect x="46" y="400" width="108" height="130" rx="2" fill="url(#lbl-cream)" opacity=".96"/>
+        <text x="100" y="428" text-anchor="middle" font-family="Cormorant Garamond,Georgia,serif" font-weight="600" font-size="10.5" letter-spacing="2.4" fill="#3a1520">JACARANDA</text>
+        <text x="100" y="441" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="6" letter-spacing="3" fill="#6b4c9a">CELLAR · NAIROBI</text>
+        <g transform="translate(100 478) scale(1.15)" color="#7a1630"><g transform="translate(-24 -24)"><path d="M9 9Q13 5 17 9Q20.5 5 24 9Q27.5 5 31 9Q35 5 39 9C39 21 32 29 24 29C16 29 9 21 9 9Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path clip-path="url(#lm-bowl)" d="M0 19Q6 14.5 12 19T24 19T36 19T48 19V48H0Z" fill="currentColor"/><path d="M24 29V40M15.5 41.5Q24 38.8 32.5 41.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="39.5" cy="33" r="1.7" fill="currentColor" opacity=".6"/><circle cx="35" cy="37.5" r="1.1" fill="currentColor" opacity=".45"/></g></g>
+        <text x="100" y="518" text-anchor="middle" font-family="Cormorant Garamond,Georgia,serif" font-weight="600" font-size="9" letter-spacing="1.8" fill="#3a1520">HOUSE RESERVE</text>
+      </svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" width="800" height="1080" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="m1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c0f1d"/><stop offset=".55" stop-color="#8a2420"/><stop offset="1" stop-color="#e8782b"/></linearGradient><linearGradient id="m1f" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ffd27a"/><stop offset=".6" stop-color="#ff8a2a"/><stop offset="1" stop-color="#d63a1b"/></linearGradient></defs>
+        <rect width="400" height="540" fill="url(#m1)"/>
+        <path d="M120 300c-30-40 20-60-10-110 40 20 50 60 30 90 20-20 40-10 50-50 20 50-10 70-20 90" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="14" stroke-linecap="round"/>
+        <path d="M230 280c-20-40 30-60 0-120 40 30 60 70 30 110" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="12" stroke-linecap="round"/>
+        <path d="M70 470c10-36 32-52 30-82 22 20 34 40 28 66 10-14 22-18 30-40 14 34 6 70-18 86H80c-6-8-10-18-10-30Z" fill="url(#m1f)"/>
+        <path d="M170 480c10-50 36-64 30-110 30 26 48 56 38 100 12-10 20-26 22-44 18 36 8 70-12 86h-70c-8-8-10-20-8-32Z" fill="url(#m1f)"/>
+        <path d="M268 482c8-30 24-44 20-72 20 16 30 36 24 60 10-8 14-18 16-30 12 26 6 52-12 68h-44c-4-8-6-18-4-26Z" fill="url(#m1f)"/>
+        <rect x="40" y="394" width="320" height="12" rx="2" fill="#1b0a12"/>
+        <g stroke="#1b0a12" stroke-width="3"><path d="M60 406v100M340 406v100"/><path d="M60 372h280M60 380h280" stroke-opacity=".0"/></g>
+        <g stroke="#2a1018" stroke-width="3" opacity=".9"><path d="M72 394v-10M104 394v-10M136 394v-10M168 394v-10M200 394v-10M232 394v-10M264 394v-10M296 394v-10M328 394v-10"/></g>
+        <path d="M288 270h48c2 38-8 60-24 60s-26-22-24-60Z" fill="#7a1630" stroke="#f3dcc0" stroke-width="2" opacity=".95"/><path d="M312 330v38M296 369h32" stroke="#f3dcc0" stroke-width="2" stroke-linecap="round"/>
+        <path d="M296 282h32" stroke="#e86b84" stroke-width="2" stroke-opacity=".6"/>
+      </svg>

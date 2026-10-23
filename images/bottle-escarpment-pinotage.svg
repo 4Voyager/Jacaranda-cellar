@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 640" width="500" height="1600"><defs><linearGradient id="g-red"><stop offset="0" stop-color="#150709"/><stop offset=".22" stop-color="#43262c"/><stop offset=".5" stop-color="#1b0c0f"/><stop offset="1" stop-color="#0a0406"/></linearGradient>
+    <linearGradient id="g-green"><stop offset="0" stop-color="#0c2417"/><stop offset=".24" stop-color="#3a7550"/><stop offset=".55" stop-color="#143823"/><stop offset="1" stop-color="#07170e"/></linearGradient>
+    <linearGradient id="g-black"><stop offset="0" stop-color="#0a0d0b"/><stop offset=".24" stop-color="#34463a"/><stop offset=".55" stop-color="#101612"/><stop offset="1" stop-color="#050706"/></linearGradient>
+    <linearGradient id="g-rose"><stop offset="0" stop-color="#d98678"/><stop offset=".25" stop-color="#f8d3c8"/><stop offset=".6" stop-color="#eba596"/><stop offset="1" stop-color="#c9776b"/></linearGradient>
+    <linearGradient id="foil-wine"><stop offset="0" stop-color="#3d0a17"/><stop offset=".35" stop-color="#9a3045"/><stop offset=".7" stop-color="#5a1220"/><stop offset="1" stop-color="#2f0710"/></linearGradient>
+    <linearGradient id="foil-gold"><stop offset="0" stop-color="#7d5d16"/><stop offset=".35" stop-color="#f1d47c"/><stop offset=".7" stop-color="#b48a28"/><stop offset="1" stop-color="#6e5012"/></linearGradient>
+    <linearGradient id="foil-silver"><stop offset="0" stop-color="#7d7d86"/><stop offset=".35" stop-color="#f6f6f9"/><stop offset=".7" stop-color="#a6a6ae"/><stop offset="1" stop-color="#6d6d76"/></linearGradient>
+    <linearGradient id="foil-lilac"><stop offset="0" stop-color="#3f2468"/><stop offset=".35" stop-color="#b79bde"/><stop offset=".7" stop-color="#6c4a9f"/><stop offset="1" stop-color="#33195a"/></linearGradient>
+    <linearGradient id="foil-rose"><stop offset="0" stop-color="#a65b5b"/><stop offset=".35" stop-color="#f6c6bb"/><stop offset=".7" stop-color="#cf8d86"/><stop offset="1" stop-color="#965050"/></linearGradient>
+    <linearGradient id="lbl-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf7e8"/><stop offset="1" stop-color="#eadfc4"/></linearGradient>
+    <linearGradient id="lbl-lilac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f0fb"/><stop offset="1" stop-color="#dccdef"/></linearGradient>
+    <linearGradient id="lbl-white" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ece8df"/></linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="hl-v" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff" stop-opacity="1"/><stop offset=".85" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cp-bordeaux"><path d="M88 24L88 205C88 250 30 262 30 330L30 610Q30 628 48 628L152 628Q170 628 170 610L170 330C170 262 112 250 112 205L112 24Z"/></clipPath><clipPath id="cp-burgundy"><path d="M90 24L90 190C90 252 28 272 28 362L28 610Q28 628 46 628L154 628Q172 628 172 610L172 362C172 272 110 252 110 190L110 24Z"/></clipPath><clipPath id="cp-hock"><path d="M91 24L91 250C91 302 44 312 44 364L44 610Q44 628 60 628L140 628Q156 628 156 610L156 364C156 312 109 302 109 250L109 24Z"/></clipPath><clipPath id="cp-champ"><path d="M85 24L85 150C85 232 22 244 22 336L22 608Q22 630 42 630L158 630Q178 630 178 608L178 336C178 244 115 232 115 150L115 24Z"/></clipPath></defs>
+<path d="M88 24L88 205C88 250 30 262 30 330L30 610Q30 628 48 628L152 628Q170 628 170 610L170 330C170 262 112 250 112 205L112 24Z" fill="url(#g-red)"/>
+<g clip-path="url(#cp-bordeaux)">
+
+<rect x="39" y="150" width="11" height="460" rx="5.5" fill="url(#hl-v)" opacity="0.24"/>
+<rect x="56" y="170" width="3" height="420" rx="1.5" fill="url(#hl-v)" opacity=".34"/>
+<rect x="157" y="170" width="4" height="420" rx="2" fill="url(#hl-v)" opacity=".16"/>
+<ellipse cx="100" cy="618" rx="62" ry="6" fill="#000" opacity=".16"/>
+</g>
+<rect x="92.5" y="110" width="4" height="86" rx="2" fill="url(#hl-v)" opacity=".34"/>
+<rect x="85" y="10" width="30" height="104" rx="4" fill="url(#foil-gold)"/>
+<rect x="82" y="8" width="36" height="10" rx="3" fill="url(#foil-gold)"/>
+<rect x="90" y="22" width="3" height="86" rx="1.5" fill="#fff" opacity=".4"/>
+<rect x="40" y="372" width="120" height="200" rx="2" fill="url(#lbl-cream)" stroke="rgba(0,0,0,.1)" stroke-width=".6"/>
+<text x="100" y="397" text-anchor="middle" font-family="Cormorant Garamond,Georgia,serif" font-weight="700" font-size="9.6" letter-spacing="2.2" fill="#2f1a14">ESCARPMENT</text>
+<path d="M54 406H146" stroke="#a5522a" stroke-width=".8" opacity=".7"/>
+<g transform="translate(100 452) scale(.95)"><path d="M0 17V-2M0-18C-14-14-18-2-8 4C-14 8-10 14 0 12C10 14 14 8 8 4C18-2 14-14 0-18Z" fill="#a5522a" opacity=".9"/><path d="M0 17V-2" stroke="#a5522a" stroke-width="1.6"/></g>
+<text x="100" y="514" text-anchor="middle" font-family="Cormorant Garamond,Georgia,serif" font-weight="700" font-size="13.5" letter-spacing="1.4" fill="#2f1a14">PINOTAGE</text>
+
+<path d="M62 544H138" stroke="#a5522a" stroke-width=".6" opacity=".6"/>
+<text x="100" y="557" text-anchor="middle" font-family="DM Sans,sans-serif" font-weight="500" font-size="6.2" letter-spacing="1.6" fill="#a5522a">COASTAL REGION · 2020</text>
+</svg>
